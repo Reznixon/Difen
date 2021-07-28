@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Trebuchet MS, sans-serif;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a {
+  color: white;
+  text-emphasis: none;
+
+}
+
+a:hover {
+  color: #4dff4d;
+}
+
+ul,li {
+  list-style-type: none;
+  text-emphasis: none;
+  display: inline;
+  padding-left: 15px;
+}
+
+.item-1 {
+  background: linear-gradient(200deg, #1a1a1a, #000000);
+  color: white;
+  padding: 20px;
+}
+
+.item-2 {
+  background-color: white;
+  color: black;
+  padding: 15px;
+}
+
+.item-3 {
+  background: linear-gradient(200deg, #0d0d0d, #000000);
+  color: white;
+  padding: 15px;
+}
+
+.navigation {
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.navigationt {
+  text-align: center;
+}
+
+.names {
+  margin-top: 30px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.lin {
+  border: solid #ccc 1px;
+  margin-left: 330px;
+  width: 900px;
+}
+
+.logo {
+  padding-top: 10px;
+  margin-left: 360px;
+}
+
+.rez {
+  color: black;
+  margin-top: -35px;
+  margin-left: 400px;
+}
+
+.vew {
+  margin-left: 530px;
+  border: solid 3px #003399;
+  width: 62px;
+  margin-top: -30px;
+}
+
+.wewa {
+  color: black;
+}
+
+.wewa:hover {
+  color: #003399;
+}
